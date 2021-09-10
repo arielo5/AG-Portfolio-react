@@ -9,7 +9,7 @@ function Home() {
           <h1 class="title is-1">Ariel G. Martinez</h1>
           <h2 class="subtitle is-3">Full Stack Web Developer</h2>
           <img
-            src="./assets/images/logo2.svg"
+            src="../../assets/images/logo2.svg"
             alt="logo"
             width="180"
             height="144"

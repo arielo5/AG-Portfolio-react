@@ -54,7 +54,7 @@ function About() {
             <div class="card">
               <div class="card-image">
                 <figure class="image is-5by4">
-                  <img src="./assets/images/new_PP2.jpg" alt="Profile Picture"></img>
+                  <img src="./assets/images/new_PP2.jpg" alt="Me"></img>
                 </figure>
               </div>
             </div>

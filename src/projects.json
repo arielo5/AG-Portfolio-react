@@ -2,35 +2,35 @@
     {
     "id": 1,
     "name": "The HatTrick Platform",
-    "image": "./assets/images/TheHatTrickPlatform.png",
+    "image": "../../assets/images/TheHatTrickPlatform.png",
     "github": "https://github.com/arielo5/Project_2_Purity_Ring",
     "deploy": "https://the-hattrick-platform.herokuapp.com/"
     },
     {
     "id": 2,
     "name": "IDK You Pick",
-    "image": "./assets/images/IDK_You_Pick_01.png",
+    "image": "../../assets/images/IDK_You_Pick_01.png",
     "github": "https://github.com/arielo5/Group-Collaboration",
     "deploy": "https://arielo5.github.io/Group-Collaboration/"
     },
     {
     "id": 3,
     "name": "E-Commerce Back End",
-    "image": "./assets/images/DB_setup_and_start.gif",
+    "image": "../../assets/images/DB_setup_and_start.gif",
     "github": "https://github.com/arielo5/E-Commerce_Back_End",
     "deploy": ""
     },
     {
     "id": 4,
     "name": "Company Employee Tracker",
-    "image": "./assets/images/Company_Employee_Tracker.gif",
+    "image": "../../assets/images/Company_Employee_Tracker.gif",
     "github": "https://github.com/arielo5/Company_Employee_Tracker",
     "deploy": ""
     },
     {
     "id": 5,
     "name": "Just a Teck Blog",
-    "image": "./assets/images/JustaTeckBlog.png",
+    "image": "../../assets/images/JustaTeckBlog.png",
     "github": "https://github.com/arielo5/Teck_Blog_MVC",
     "deploy": "https://just-a-teck-blog.herokuapp.com/",
     "topics": "HTML, CSS, API"
@@ -38,14 +38,14 @@
     {
     "id": 6,
     "name": "Quiz Game",
-    "image": "./assets/images/Quiz_Game_1.png",
+    "image": "../../assets/images/Quiz_Game_1.png",
     "github": "https://github.com/arielo5/Quiz_Question_Game",
     "deploy": "https://arielo5.github.io/Quiz_Question_Game/"
     },
     {
     "id": 7,
     "name": "Work Day Scheduler",
-    "image": "./assets/images/work-day-sheduler.png",
+    "image": "../../assets/images/work-day-sheduler.png",
     "github": "https://github.com/arielo5/Work_Day_Scheduler",
     "deploy": "https://arielo5.github.io/Work_Day_Scheduler/",
     "topics": "HTML, Javascript, CSS"
@@ -53,21 +53,21 @@
     {
     "id": 8,
     "name": "Best Team Profile Generator",
-    "image": "./assets/images/team-profile.png",
+    "image": "../../assets/images/team-profile.png",
     "github": "https://github.com/arielo5/Best_Team_Profile_Generator",
     "deploy": ""
     },
     {
     "id": 9,
     "name": "Super Weather Page",
-    "image": "./assets/images/Super_Weather_Page_Screenshot.png",
+    "image": "../../assets/images/Super_Weather_Page_Screenshot.png",
     "github": "https://github.com/arielo5/Super_Weather_Page",
     "deploy": "https://arielo5.github.io/Super_Weather_Page/"
     },
     {
     "id": 10,
     "name": "Password Generator",
-    "image": "./assets/images/PG_Screenshot.png",
+    "image": "../../assets/images/PG_Screenshot.png",
     "github": "https://github.com/arielo5/Password_Generato",
     "deploy": "https://arielo5.github.io/Password_Generator/",
     "topics": "HTML, Javascript, CSS"
@@ -75,14 +75,14 @@
     {
     "id": 11,
     "name": "My Note Taker",
-    "image": "./assets/images/My-Note-Taker.png",
+    "image": "../../assets/images/My-Note-Taker.png",
     "github": "https://github.com/arielo5/My_Note_Taker",
     "deploy": "https://my-note-taker-001.herokuapp.com/"
     },
     {
     "id": 12,
     "name": "Pro README Generator",
-    "image": "./assets/images/Pro-README-Generator.png",
+    "image": "../../assets/images/Pro-README-Generator.png",
     "github": "https://github.com/arielo5/Pro_ReadMe_Generator",
     "deploy": ""
     }
