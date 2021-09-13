@@ -134,7 +134,9 @@ function About() {
           <span class="tag is-light">Bootstrap</span>
           <span class="tag is-light">jQuery</span>
           <span class="tag is-light">Git</span>
-          <span class="tag is-light">MSSQL</span>            
+          <span class="tag is-light">MSSQL</span>
+          <span class="tag is-light">React</span> 
+          <span class="tag is-light">Mongoose</span>            
         </div>
 
       </section> 
