@@ -1,59 +1,49 @@
-import React from 'react';
-import {NavLink} from "react-router-dom";
+import React from "react";
+import { Link } from "react-router-dom";
+import "bulma/css/bulma.min.css";
 
-function Navigation(props) {   
+function Navigation() {
+  return (
+    <nav class="navbar has-background-link is-fixed-top">
+      <div class="navbar-brand">
+        <div
+          class="navbar-burger burger"
+          data-target="navbarExampleTransparentExample">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
 
-    return (
-        <nav class="navbar is-link is-fixed-top">
-        <div class="navbar-brand">
-          <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
-            <span></span>
-            <span></span>
-            <span></span>
+      <div id="navbarExampleTransparentExample" class="navbar-menu">
+        <div class="navbar-start">
+          <div class="navbar-item">
+            <Link to="/home" class="has-text-white is-size-4">
+            <img src="https://img.icons8.com/material-outlined/24/000000/home--v2.png" alt="home"/> Home</Link>
+          </div>
+          <div class="navbar-item">
+            <Link to="/about" class="has-text-white is-size-4">
+            <img src="https://img.icons8.com/material-outlined/24/000000/info.png" alt="info"/> About</Link>
+          </div>
+          <div class="navbar-item">
+            <Link to="/services" class="has-text-white is-size-4">
+            <img src="https://img.icons8.com/material-outlined/24/000000/service.png" alt="service"/> Services</Link>
+          </div>
+          <div class="navbar-item">
+            <Link to="/resume" class="has-text-white is-size-4">
+            <img src="https://img.icons8.com/material-outlined/24/000000/resume.png" alt="resume"/> Resume</Link>
+          </div>
+          <div class="navbar-item">
+            <Link to="/portfolio" class="has-text-white is-size-4">
+            <img src="https://img.icons8.com/material-outlined/24/000000/list.png" alt="list"/> Portfolio</Link>
+          </div>
+          <div class="navbar-item">
+            <Link to="/contact" class="has-text-white is-size-4">
+            <img src="https://img.icons8.com/material-outlined/24/000000/mail.png" alt="mail"/> Contact</Link>
           </div>
         </div>
-    
-        <div id="navbarExampleTransparentExample" class="navbar-menu">
-          <div class="navbar-end">
-            <a class="navbar-item" href="#home">
-                <span class="icon">
-                  <i class="fas fa-home"></i>
-                </span>
-                <NavLink to="/home">Home </NavLink>
-              </a>
-            <a class="navbar-item" href="#about">
-              <span class="icon">
-                <i class="fas fa-info"></i>
-              </span>
-              <NavLink to="/about">About </NavLink>
-            </a>
-            <a class="navbar-item" href="#services">
-              <span class="icon">
-                <i class="fas fa-bars"></i>
-              </span>
-              <NavLink to="/service">Service </NavLink>
-            </a>
-            <a class="navbar-item" href="#resume">
-              <span class="icon">
-                <i class="fas fa-file-alt"></i>
-              </span>
-              <NavLink to="/resume">Resume </NavLink>
-            </a>
-            <a class="navbar-item" href="#portfolio">
-              <span class="icon">
-                <i class="fas fa-th-list"></i>
-              </span>
-              <NavLink to="/portfolio">Portfolio </NavLink>
-            </a>
-            <a class="navbar-item" href="#contact">
-              <span class="icon">
-                <i class="fas fa-envelope"></i>
-              </span>
-              <NavLink to="/contact">Contact </NavLink>
-            </a>
-          </div>
-        </div>
-      </nav>
+      </div>
+    </nav>
   );
 }
 

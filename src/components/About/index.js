@@ -1,12 +1,16 @@
 import React from 'react';
+import Me from "../../assets/images/new_PP2.jpg";
 
 function About() {
     return (
         <section class="section" id="about">
         
         <div class="section-heading has-text-centered">
+        <br></br>
+
           <h3 class="title is-2">About Me</h3>
           <h4 class="subtitle is-5">Jack of all trades, master of "some"</h4>
+          <hr></hr>
           <div class="container">
             <p>Here in my personal portfolio webpage you will see all the skills I acquired so far. I have learn that to better improve myself I need to continuously research and learn all the new tips and knowledge thatI can get my hands on. With my projects i like to give them a more personal touch depending on each project that I work on. I’m interested in learning new ways to better develope my skills in work and also video games and board games. I’m currently learning web development coding with the University of Minnesota Coding Boot Camp. I’m looking to collaborate in front end and/or back end web development.</p>
           </div>
@@ -54,7 +58,7 @@ function About() {
             <div class="card">
               <div class="card-image">
                 <figure class="image is-5by4">
-                  <img src="./assets/images/new_PP2.jpg" alt="Me"></img>
+                  <img src={ Me } alt="Me"></img>
                 </figure>
               </div>
             </div>

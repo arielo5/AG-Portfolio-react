@@ -40,16 +40,19 @@ function Contact() {
 
   return (
     <section class="section" id="contact">
-      <div class="container">
+      <div class="container ">
         <div class="section-heading">
+        <br></br>
+        
           <h3 class="title is-2">Contact</h3>
           <h4 class="subtitle is-5">Get in touch</h4>
         </div>
+        <hr></hr>
         <br></br>
 
-        <div class="columns">
+        <div class="columns ">
           <div class="column is-6 is-offset-3">
-            <div class="box">
+            <div class="box has-background-link">
               <div class="field">
                 <label class="label">Name</label>
                 <div class="control">
@@ -66,19 +69,16 @@ function Contact() {
 
               <div class="field">
                 <label class="label">Email</label>
-                <div class="control has-icons-left">
+                <div class="control">
                   <input
                     class="input"
                     type="email"
                     placeholder="Email input"
-                    value=""
+                    
                     name="email"
                     defaultValue={email}
                     onChange={handleChange}
                   ></input>
-                  <span class="icon is-small is-left">
-                    <i class="fas fa-envelope"></i>
-                  </span>
                 </div>
               </div>
 
@@ -100,16 +100,14 @@ function Contact() {
                 </div>
               )}
 
-              <div class="field is-grouped has-text-centered">
+              <div class="field is-grouped has-text-centered ">
                 <div class="control">
                   <button
-                    class="button is-link is-large"
+                    class="button is-success is-large"
                     onSubmit={handleSubmit}
                   >
-                    <span class="icon">
-                      <i class="fas fa-envelope"></i>
-                    </span>
-                    <span>Submit</span>
+                    <span>
+                    <img src="https://img.icons8.com/material-outlined/24/000000/mail.png" alt="mail"/> Submit</span>
                   </button>
                 </div>
               </div>

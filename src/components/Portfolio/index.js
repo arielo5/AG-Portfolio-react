@@ -13,12 +13,16 @@ function Portfolio() {
     <section class="section" id="portfolio">
       <div class="container">
         <div class="section-heading">
+        <br></br>
           <h3 class="title is-2">Portfolio</h3>
           <h4 class="subtitle is-5">My latest works</h4>
         </div>
+        <hr></hr>
         <br></br>
       </div>
 
+      <div class="columns is-centered">
+        <div class="column is-6">
       <Wrapper id="card-data">
         {projects.map((project) => (
           <ProjectCards
@@ -30,6 +34,8 @@ function Portfolio() {
           />
         ))}
       </Wrapper>
+      </div>
+      </div>
     </section>
   );
 }

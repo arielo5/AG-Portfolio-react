@@ -1,4 +1,5 @@
 import React from "react";
+import Mylogo from "../../assets/images/logo2.svg";
 
 function Home() {
   return (
@@ -9,7 +10,7 @@ function Home() {
           <h1 class="title is-1">Ariel G. Martinez</h1>
           <h2 class="subtitle is-3">Full Stack Web Developer</h2>
           <img
-            src="../../assets/images/logo2.svg"
+            src={Mylogo}
             alt="logo"
             width="180"
             height="144"

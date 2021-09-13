@@ -4,9 +4,11 @@ function Services() {
   return (
     <section class="section" id="services">
       <div class="section-heading">
+      <br></br>
         <h3 class="title is-2">Services</h3>
         <h4 class="subtitle is-5">What can I do for you?</h4>
       </div>
+      <hr></hr>
       <div class="container">
         <div class="columns">
           <div class="column">
