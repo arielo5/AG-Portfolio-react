@@ -12,7 +12,7 @@ function About() {
           <h4 class="subtitle is-5">Jack of all trades, master of "some"</h4>
           <hr></hr>
           <div class="container">
-            <p>Here in my personal portfolio webpage you will see all the skills I acquired so far. I have learn that to better improve myself I need to continuously research and learn all the new tips and knowledge thatI can get my hands on. With my projects i like to give them a more personal touch depending on each project that I work on. I’m interested in learning new ways to better develope my skills in work and also video games and board games. I’m currently learning web development coding with the University of Minnesota Coding Boot Camp. I’m looking to collaborate in front end and/or back end web development.</p>
+            <p>Never satisfied with being on the sidelines of technological advancement, I became a Full Stack Web Developer with a background in engineering, using my knowledge to build a more intuitive user experience on the web. I’ve recently earned a certificate in Full Stack Development from the University of Minnesota Coding Bootcamp, with newly developed skills in JavaScript, CSS, React.js and responsive web design. My friends, coworkers, and family members know me as an innovative problem solver, passionate about developing apps, with a current focus on mobile-first design and development. With each project, my aim is to best engage my audience for an impactful user experience. I applied aspects of UX and agile development in a recent project, working with a team of four to develop a single-page MERN app that helps everyone that joins the site to create any poll and track the top choices. I’m excited to leverage my skills as part of a fast-paced, quality-driven team to build better experiences on the web.</p>
           </div>
         </div>
     
@@ -30,12 +30,8 @@ function About() {
                       <th colspan="2"></th>
                     </tr>
                     <tr>
-                      <td>Address:</td>
-                      <td>My Home</td>
-                    </tr>
-                    <tr>
                       <td>Phone:</td>
-                      <td>651-123-4567</td>
+                      <td>9398654004</td>
                     </tr>
                     <tr>
                       <td>Email:</td>
