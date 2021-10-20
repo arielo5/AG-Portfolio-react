@@ -1,34 +1,48 @@
 [
-    {
+  {
     "id": 1,
+    "name": "Newdle",
+    "image": "https://github.com/arielo5/breakoutRoomNomads/blob/main/images/newdle.png",
+    "github": "https://github.com/arielo5/breakoutRoomNomads",
+    "deploy": "https://the-hattrick-platform.herokuapp.com/"
+    },
+    {
+    "id": 2,
+    "name": "Book Search Engine",
+    "image": "https://github.com/arielo5/Mysterious-Book-Search-Engine/blob/main/screenshots/savedbookspage.png",
+    "github": "https://github.com/arielo5/Mysterious-Book-Search-Engine",
+    "deploy": "https://mysterious-book-search.herokuapp.com/"
+    },
+    {
+    "id": 3,
     "name": "The HatTrick Platform",
     "image": "https://github.com/arielo5/AG-Portfolio-react/raw/main/src/assets/images/TheHatTrickPlatform.png",
     "github": "https://github.com/arielo5/Project_2_Purity_Ring",
     "deploy": "https://the-hattrick-platform.herokuapp.com/"
     },
     {
-    "id": 2,
+    "id": 4,
     "name": "IDK You Pick",
     "image": "https://github.com/arielo5/AG-Portfolio-react/raw/main/src/assets/images/IDK_You_Pick_01.png",
     "github": "https://github.com/arielo5/Group-Collaboration",
     "deploy": "https://arielo5.github.io/Group-Collaboration/"
     },
     {
-    "id": 3,
+    "id": 5,
     "name": "E-Commerce Back End",
     "image": "https://github.com/arielo5/AG-Portfolio-react/raw/main/src/assets/images/DB_setup_and_start.gif",
     "github": "https://github.com/arielo5/E-Commerce_Back_End",
     "deploy": ""
     },
     {
-    "id": 4,
+    "id": 6,
     "name": "Company Employee Tracker",
     "image": "https://github.com/arielo5/AG-Portfolio-react/raw/main/src/assets/images/Company_Employee_Tracker.gif",
     "github": "https://github.com/arielo5/Company_Employee_Tracker",
     "deploy": ""
     },
     {
-    "id": 5,
+    "id": 7,
     "name": "Just a Teck Blog",
     "image": "https://github.com/arielo5/AG-Portfolio-react/raw/main/src/assets/images/JustaTeckBlog.png",
     "github": "https://github.com/arielo5/Teck_Blog_MVC",
@@ -36,14 +50,14 @@
     "topics": "HTML, CSS, API"
       },
     {
-    "id": 6,
+    "id": 8,
     "name": "Quiz Game",
     "image": "https://github.com/arielo5/AG-Portfolio-react/raw/main/src/assets/images/Quiz_Game_1.png",
     "github": "https://github.com/arielo5/Quiz_Question_Game",
     "deploy": "https://arielo5.github.io/Quiz_Question_Game/"
     },
     {
-    "id": 7,
+    "id": 9,
     "name": "Work Day Scheduler",
     "image": "https://github.com/arielo5/AG-Portfolio-react/raw/main/src/assets/images/work-day-sheduler.png",
     "github": "https://github.com/arielo5/Work_Day_Scheduler",
@@ -51,21 +65,21 @@
     "topics": "HTML, Javascript, CSS"
     },
     {
-    "id": 8,
+    "id": 10,
     "name": "Best Team Profile Generator",
     "image": "https://github.com/arielo5/AG-Portfolio-react/raw/main/src/assets/images/team-profile.png",
     "github": "https://github.com/arielo5/Best_Team_Profile_Generator",
     "deploy": ""
     },
     {
-    "id": 9,
+    "id": 11,
     "name": "Super Weather Page",
     "image": "https://github.com/arielo5/AG-Portfolio-react/raw/main/src/assets/images/Super_Weather_Page_Screenshot.png",
     "github": "https://github.com/arielo5/Super_Weather_Page",
     "deploy": "https://arielo5.github.io/Super_Weather_Page/"
     },
     {
-    "id": 10,
+    "id": 12,
     "name": "Password Generator",
     "image": "https://github.com/arielo5/AG-Portfolio-react/raw/main/src/assets/images/PG_Screenshot.png",
     "github": "https://github.com/arielo5/Password_Generato",
@@ -73,14 +87,14 @@
     "topics": "HTML, Javascript, CSS"
     },
     {
-    "id": 11,
+    "id": 13,
     "name": "My Note Taker",
     "image": "https://github.com/arielo5/AG-Portfolio-react/raw/main/src/assets/images/My-Note-Taker.png",
     "github": "https://github.com/arielo5/My_Note_Taker",
     "deploy": "https://my-note-taker-001.herokuapp.com/"
     },
     {
-    "id": 12,
+    "id": 14,
     "name": "Pro README Generator",
     "image": "https://github.com/arielo5/AG-Portfolio-react/raw/main/src/assets/images/Pro-README-Generator.png",
     "github": "https://github.com/arielo5/Pro_ReadMe_Generator",
