@@ -2,14 +2,14 @@
   {
     "id": 1,
     "name": "Newdle",
-    "image": "https://github.com/arielo5/breakoutRoomNomads/blob/main/images/newdle.png",
+    "image": "https://github.com/arielo5/AG-Portfolio-react/raw/main/src/assets/images/newdle1.png",
     "github": "https://github.com/arielo5/breakoutRoomNomads",
     "deploy": "https://the-hattrick-platform.herokuapp.com/"
     },
     {
     "id": 2,
     "name": "Book Search Engine",
-    "image": "https://github.com/arielo5/Mysterious-Book-Search-Engine/blob/main/screenshots/savedbookspage.png",
+    "image": "https://github.com/arielo5/AG-Portfolio-react/raw/main/src/assets/images/savedbookspage.png",
     "github": "https://github.com/arielo5/Mysterious-Book-Search-Engine",
     "deploy": "https://mysterious-book-search.herokuapp.com/"
     },
